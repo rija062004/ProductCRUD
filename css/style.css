@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(124, 128, 131);
+}
+
+.bg-container{
+    background-color: white;
+}
+
+input[type ="text"], form button{
+    border-radius: 20px;
+}
+
+.bg{
+    background: rgb(146, 146, 145);
+    border-style: none;
+}
